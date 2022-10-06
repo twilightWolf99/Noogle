@@ -1,0 +1,60 @@
+#google{
+    margin-left: 515px;
+    margin-top: 170px;
+}
+#bar{
+    border-radius: 90px;
+    height: 44px;
+    width: 561px;
+    border: outset 2px;
+    margin-left: 375px;
+    margin-top: 26px;
+}
+#btn-1{
+    border: none;
+    height: 32px;
+    width: 32px;
+    margin-top: 5px;
+    background: transparent;
+}
+.item{
+    margin-left: 5px;
+    color: gray;
+}
+#gm{
+    margin-left:1185px ;
+}
+.card{
+    max-width: 112px;
+    max-height: 112px;
+    border: none;
+}
+.card-group{
+    margin-left: 475px;
+    margin-top: 20px;
+}
+#csb{
+    margin-top: 120px;
+    margin-left: 1190px;
+    border-radius: 90px;
+    border: outset 2px;
+    font-size: small;
+    width: 166.45px;
+    height: 32px;
+    color: #3578eb;
+    background: transparent;
+}
+#wsi{
+    max-width: 24px;
+    max-height: 24px;
+}
+#p2{
+    font-size: small;
+
+}
+#sp{
+    border-radius: 50%;
+    background-color: gray;
+    max-height: 60px;
+    max-width: 60px;
+}
